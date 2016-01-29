@@ -1,7 +1,8 @@
 {
-    "id": "nodebb-theme-vanilla",
+    "id": "nodebb-theme-jairo",
     "name": "Vanilla",
     "description": "A simple forum layout with a Modern UI inspired homepage.",
-    "url": "https://github.com/NodeBB/nodebb-theme-vanilla",
-    "screenshot": "screenshot.png"
+    "url": "https://github.com/kidandcat/nodebb-theme-jairo",
+    "screenshot": "screenshot.png",
+    "baseTheme": "nodebb-theme-vanilla"
 }

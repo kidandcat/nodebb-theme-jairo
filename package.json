@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-theme-vanilla",
+  "name": "nodebb-theme-jairo",
   "version": "5.0.38",
   "description": "Vanilla theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-theme-vanilla"
+    "url": "https://github.com/kidandcat/nodebb-theme-jairo"
   },
   "keywords": [
     "nodebb",

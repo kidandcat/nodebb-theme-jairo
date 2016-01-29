@@ -1,7 +1,7 @@
 {
     "id": "nodebb-theme-jairo",
-    "name": "Vanilla",
-    "description": "A simple forum layout with a Modern UI inspired homepage.",
+    "name": "Jairo",
+    "description": "Jairo theme!",
     "url": "https://github.com/kidandcat/nodebb-theme-jairo",
     "screenshot": "screenshot.png",
     "baseTheme": "nodebb-theme-vanilla"
